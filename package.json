@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/kashifch/cypress_training#readme",
   "dependencies": {
-    "aws-amplify": "^2.2.1",
-    "cypress": "^3.8.0"
+    "aws-amplify": "^2.2.1"
+  },
+  "devDependencies": {
+    "cypress": "^4.2.0"
   }
 }

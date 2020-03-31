@@ -1,8 +1,11 @@
 {
-    "baseUrl": "https://courses.stage.edx.org/",
-    "integrationFolder": "cypress/integration/lecture3/tests",
+    "baseUrl": "https://www.kayak.com",
+    "integrationFolder": "cypress/integration/kayak/tests",
+    "requestTimeout": 10000,
+    "responseTimeout": 10000,
     "env": {
         "user_email": "temp_user@yopmail.com",
         "user_password": "edxedxedx1"
     }
+   
 }
